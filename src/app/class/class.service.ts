@@ -8,8 +8,7 @@ export class ClassService {
 
   classes: Class[] = [
     new Class(".Net Boot Camp"),
-    new Class("ScrumMaster"),
-    new Class("Excel 2016")
+    new Class("Java Boot Camp")
   ];
 
   constructor() { }
